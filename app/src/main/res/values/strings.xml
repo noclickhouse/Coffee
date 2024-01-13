@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Coffee</string>
+
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="password_again">Повторите пароль</string>
+    <string name="email_example">example@example.com</string>
+    <string name="password_example">******</string>
+    <string name="email_warning">Это не электронная почта</string>
+    <string name="password_warning">Пароль слишком короткий</string>
+    <string name="password_again_warning">Пароли не совпадают</string>
+
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Войти</string>
+
+    <string name="registration">Регистрация</string>
+    <string name="authorization">Вход</string>
+    <string name="nearest_coffee_shops">Ближайшие кофейни</string>
+    <string name="menu">Меню</string>
+    <string name="your_order">Ваш заказ</string>
+
+    <string name="on_map">На карте</string>
+    <string name="proceed_to_checkout">Перейти к оплате</string>
+    <string name="pay">Оплатить</string>
+    <string name="paid">Оплачен</string>
+
+    <string name="coffee_shops_not_found">Кофейни не найдены</string>
+    <string name="menu_is_empty">Меню пусто</string>
+    <string name="waiting">Время ожидания заказа 15 минут!\nСпасибо, что выбрали нас!</string>
+
+    <string name="error">Ошибка</string>
+    <string name="ok">Ок</string>
+    <string name="dismiss">Отмена</string>
+</resources>
